@@ -1,0 +1,3 @@
+Conclusion: we cannot use the bandit algorithm to choose which stocks to invest.
+The best invest return is about 1000, 0.1% of the total capital 1000000, for 4 years. 
+If we invest the same amount of money into US treasury bond, the total return is about 76984. 
